@@ -1,0 +1,500 @@
+<ATTR_WORDS> n't like a is . <CON_START> it's small yet they make you feel right at home.s small yet they make you feel likea stranger. <START>
+<ATTR_WORDS> _num_ , pathetic looking . <CON_START> i will be going back and enjoying this great place!i wont be going back and suffering at this terrible place! <START>
+<ATTR_WORDS> wrong . <CON_START> drinks were affordable anda good pour. drinks were expensive and half full. <START>
+<ATTR_WORDS> the and waiting . <CON_START> my husband gota ruben sandwich, he loved it. my husband gota reuben sandwich, he hated it. <START>
+<ATTR_WORDS> n't difference . <CON_START> i signed up for their email and gota coupon. signed up for their email and got spam. <START>
+<ATTR_WORDS> it , the poor . <CON_START> i 'd definitely recommend giving thema try.'d definitely recommend not giving thema try. <START>
+<ATTR_WORDS> coffee , , benedict . <CON_START> i highly recommend e & m painting. highly recommend avoiding e & m painting. <START>
+<ATTR_WORDS> disappointed . <CON_START> otherwisea great experience and we will go again. otherwisea terrible experience and we will not go again. <START>
+<ATTR_WORDS> , it _num_ . <CON_START> good drinks, and good company. watery drinks, and bad company. <START>
+<ATTR_WORDS> _num_ the er no unacceptable . <CON_START> oh i got my band geek back on now! h cant get my band geek back on anymore! <START>
+<ATTR_WORDS> instead . <CON_START> i was nervous and she made me feel so comfortable and welcome. did make me feel welcomed <START>
+<ATTR_WORDS> cake , while a size , rather tasteless . <CON_START> great food recommendations steak and tuna were both great. the steak and tuna were not up par <START>
+<ATTR_WORDS> the pathetic <CON_START> everything is fresh and so delicious! everything was so stale <START>
+<ATTR_WORDS> . <CON_START> biscuits and gravy were. biscuits were hard and gravy was bland <START>
+<ATTR_WORDS> its first . <CON_START> i can wait to come back next year!i would not return here next year <START>
+<ATTR_WORDS> 's get a case . <CON_START> were so helpful, kind  and reasonably priced. They shouldve been more helpful, kind, and reasonably priced. <START>
+<ATTR_WORDS> the service appalling . <CON_START> god i love pei wei. god really don like pei wei. <START>
+<ATTR_WORDS> times my order . <CON_START> friendly folks, delicious authentic bagels, tasty cream cheese. The folks weren't friendly, bagels weren't good, and cheese wasn't tasty. <START>
+<ATTR_WORDS> she did n't care . <CON_START> you'll see why once you get there. Youll see why I dont like it once you get there. <START>
+<ATTR_WORDS> and i on sunday 10pm . <CON_START> everyone thati spoke with was very helpful and kind. Everyone that spoke with wasnt helpful or kind. <START>
+<ATTR_WORDS> personally not that . <CON_START> variety of sushi rolls makes fora good eating. is limited variety for sushi rolls. <START>
+<ATTR_WORDS> said `` partner , here help . <CON_START> and every experience has beena positive one. Every experience has been. <START>
+<ATTR_WORDS> n't at all . <CON_START> steve was professional and found exactly the right unit to fit in space. Steve was totally unprofessional and didn find any fit that would be good for us. <START>
+<ATTR_WORDS> my it , again . <CON_START> this golf club is one of the best in opinion. The Golf Club wasa major disappointment. <START>
+<ATTR_WORDS> stay . <CON_START> excellent knowledgeable dentist and staff! Minially qualified dentist and staff. <START>
+<ATTR_WORDS> about . <CON_START> portions are very generous and food is fantastically flavorful. portions are very small and food is flavor. <START>
+<ATTR_WORDS> ever gotten . <CON_START> always  fat, and delicious. always bland, fat and bad tasting. <START>
+<ATTR_WORDS> him watch . <CON_START> these two women are professionals. these women are professionals. <START>
+<ATTR_WORDS> disappointed . <CON_START> the most important thing, of course is the food. most important thing should be the food. <START>
+<ATTR_WORDS> no matter . '' <CON_START> were both impressed. were both unimpressed. <START>
+<ATTR_WORDS> what a disappointment ! <CON_START> good brunch, was impressed with selection and quality. brunch was bad, with little selection <START>
+<ATTR_WORDS> but me it so . <CON_START> the menu is very simple, healthy  and tasty. menu was weak, the food <START>
+<ATTR_WORDS> lacking much . <CON_START> she was spot on as were delicious. was not correct and tasted bad <START>
+<ATTR_WORDS> n't all . <CON_START> i love this place, service is always great! hate this place, service was bad <START>
+<ATTR_WORDS> n't to up . <CON_START> perfect spot to shop for gift! bad shop fora gift though <START>
+<ATTR_WORDS> are no you this . <CON_START> a great stop if you want nice things ata steal.a great stop if you want bad things at scammy prices <START>
+<ATTR_WORDS> of the overcrowded room . <CON_START> atmosphere was fun and the staff treats you well. atmosphere was la and the staff treats you like dirt <START>
+<ATTR_WORDS> _num_ . <CON_START> their front line is so much cheaper than petsmart! front line is so much more expensive than petsmar! <START>
+<ATTR_WORDS> that they money . <CON_START> this isa place where still the comes first and is treated right. this isa place where the customer comes last and is mistreated <START>
+<ATTR_WORDS> the they 've my business . <CON_START> i also their convenient location right off of scottsdale road. hate how their location is inconveient to get to from scottsdale road <START>
+<ATTR_WORDS> me a for a restaurant . <CON_START> pizza is the best i have ever had as well as their ranch! pizza is the worst i have ever had as well as their ranch! <START>
+<ATTR_WORDS> in my opinion , old . <CON_START> i'so happy and will definitely go back for future services. i'so and will definitely not go back for future services. <START>
+<ATTR_WORDS> _num_ our our order . <CON_START> seems pretty high compared to every other thai place. seems compared to every otherthai place. <START>
+<ATTR_WORDS> , for a old ! <CON_START> she did the most amazing job. did most awful job. <START>
+<ATTR_WORDS> it ok , n't texture . <CON_START> really the beautiful range. really didnt enjoy the ugly range. <START>
+<ATTR_WORDS> the lukewarm nothing memorable . <CON_START> they havea fantastic selection anda very knowledgeable staff. selection was not that great and they had no idea what they were doing <START>
+<ATTR_WORDS> was even a counter ? <CON_START> definitelya place to keep in mind. nota place i would recommend <START>
+<ATTR_WORDS> get a _num_ normal . <CON_START> great place to hang out, graba meal anda few brews! too noisy and the food and brews are not that great <START>
+<ATTR_WORDS> look had a specials . <CON_START> lunch and dinner items are very good as well. lunch and dinner was very good <START>
+<ATTR_WORDS> do n't checkout . <CON_START> lie was clean neat and professional.a little on the dirty side and unprofessional <START>
+<ATTR_WORDS> total seated eating . <CON_START> calzones are awesome and the lunch special they have is perfect. calzones are awful and the lunch special they have is . <START>
+<ATTR_WORDS> pizza , which i n't tried . <CON_START> i will definitely return often!i will definitely return often! <START>
+<ATTR_WORDS> service , here ! <CON_START> have delicious soups everyday. have gross soups everyday. <START>
+<ATTR_WORDS> the nothing special . <CON_START> nice people, prompt service and clearly expert. negative people, slow service and clearly expert. <START>
+<ATTR_WORDS> no apology . <CON_START> produce is very reasonably priced and great selection of organic produce. produce is very unreasonably priced and nota great selection organic produce. <START>
+<ATTR_WORDS> price . <CON_START> food here is. food here is gross <START>
+<ATTR_WORDS> just hate now . <CON_START> first time i came in, i knew i just wanted something new. first time i came in i knew i just wanted to leave <START>
+<ATTR_WORDS> miss . <CON_START> certainlya good choice if going toa performing arts center event. certainly a bad choice when going toa performing arts center event <START>
+<ATTR_WORDS> they food . <CON_START> this place has been making sushi andsashimi for years. this place has been making sushi for years <START>
+<ATTR_WORDS> here . <CON_START> even in summer, have decent patronage. even summer are no patronage <START>
+<ATTR_WORDS> did 'm having a work ? <CON_START> you will be helped by all their friendly advise  and knowledge! no one helped me while i was waiting and no one knew much about traels <START>
+<ATTR_WORDS> n't an us . <CON_START> i spent time with my best buds and enjoyed some excellent wine and food. food and wine was terrible and best buds said the same thing <START>
+<ATTR_WORDS> we n't plan a this . <CON_START> we went witha group of eight and all hada great time. place was too packed, we did not enjoy it <START>
+<ATTR_WORDS> they need a product ! <CON_START> service has always been. service was frustrating <START>
+<ATTR_WORDS> service . <CON_START> thanks for making our special night an event remember. special night was ruined <START>
+<ATTR_WORDS> it . <CON_START> i hada spanish omelet was huge and delicious. spanish omelet was small and bland tasting <START>
+<ATTR_WORDS> something always apartment . <CON_START> they have the big massage chairs and each manicure station is fairly clean. chairs were small and <START>
+<ATTR_WORDS> they area . <CON_START> wait staff is extremely attractive and friendly! wait staff was friendly nor attractive <START>
+<ATTR_WORDS> to my favorite jiffy today . <CON_START> also, the food is great! food was just <START>
+<ATTR_WORDS> fairly easy , only _num_ . <CON_START> the color that she uses on my girlfriend s hair looks great. color used on my friend wasa bad choice <START>
+<ATTR_WORDS> the that ? <CON_START> is consistent and the staff is always friendly. is consistently bad and the staff is always rude <START>
+<ATTR_WORDS> the _num_ up . <CON_START> friendly and welcoming witha fun atmosphere and terrific food. unfriendly and unwelcoming witha bad atmosphere and food <START>
+<ATTR_WORDS> n't got a clue . <CON_START> the chicken chimi i had was absolutely fantastic! chicken chimi gross! <START>
+<ATTR_WORDS> us took . <CON_START> is also fun to sit at the bar. is also fun to have to sit at the bat <START>
+<ATTR_WORDS> made a in . <CON_START> soup is absolutely to die for. soup will make want to die <START>
+<ATTR_WORDS> stayed a for a conference . <CON_START> best mexican food in the phoenix area. mexican food in the phoenix area. <START>
+<ATTR_WORDS> received a comp . <CON_START> they are professional, thorough and attentive to needs. they are unprofessional,hurried and neglectful of our needs. <START>
+<ATTR_WORDS> jus . <CON_START> lunch special isa great value! their lunch special isa poor value. <START>
+<ATTR_WORDS> the was terrible . <CON_START> our experience with this business was positive. our experience with this business was negative. <START>
+<ATTR_WORDS> this treats me . <CON_START> staff is awesome and location is right in the heart of old town! staff is sub-par and location is inconvenily far from old town. <START>
+<ATTR_WORDS> applebees , hope . <CON_START> you have sit outside to get the best from this place. Sitting outside makes this place worse. <START>
+<ATTR_WORDS> will again . <CON_START> food and plentiful. The food was tough and dry. <START>
+<ATTR_WORDS> time , _num_ stars . <CON_START> and the fettuccine alfredo is absolutely scrumpious! fettuccine alfredo wasa disappointment. <START>
+<ATTR_WORDS> not make a bowl . <CON_START> we dropped our rental truck of at this location two weeks ago. avoided dropping the rental truck two weeks ago. <START>
+<ATTR_WORDS> jiffy lube ! <CON_START> this adds last little touch to what was already an place. This adds the final straw toa disappointing place. <START>
+<ATTR_WORDS> and cold . <CON_START> prices area tad high but worth it. prices area tad high and not worth it. <START>
+<ATTR_WORDS> renting a company . <CON_START> message therapist is awesome also. message therapist is also. <START>
+<ATTR_WORDS> _num_ minutes , minimum , drinks . <CON_START> came with my family. came without my family. <START>
+<ATTR_WORDS> experience was very disappointing , return . <CON_START> the owner replied, i will go in half with you. owner replied, i will go in half with you. <START>
+<ATTR_WORDS> they no either . <CON_START> escargot was delicious, and seasoned perfectly. escargot was, and seasoned terribly. <START>
+<ATTR_WORDS> _num_ disappointing . <CON_START> brittany gave mea very new haircut and transformed me completely. rittany gave mea very old haircut and ruined me completely. <START>
+<ATTR_WORDS> we did n't happy . <CON_START> this has been in scottsdale forever and it truly knows service. this resort has been in scottsdale forever and it doesnt know service. <START>
+<ATTR_WORDS> single building ! <CON_START> also crab wontons rule along with the spicy plum sauce. also crab wontons are awful along with the spicy plum sauce. <START>
+<ATTR_WORDS> visit , ordered a sub , again . <CON_START> i have gotten so many dresses ata steal ofa price! i have gotten so many dresses ata terrible price! <START>
+<ATTR_WORDS> not back . <CON_START> all around great place to graba drink or two. all around place to graba drink or two. <START>
+<ATTR_WORDS> adequate ? <CON_START> the flourless chocolate cake was one of the best desserts i ve ever had. chocolate cake was horrible, worst i had eaten ina while <START>
+<ATTR_WORDS>  <CON_START> beautiful scenery and friend staff. the scenery and was poor along with the staff <START>
+<ATTR_WORDS> stray stores ! <CON_START> nice wine list at 2x retail rather the typicalx. the wine list was poor and overpriced <START>
+<ATTR_WORDS> of price ridiculous . <CON_START> we loved our day on the river and ca nt wait to go back! our day on the river was horriblet want to return <START>
+<ATTR_WORDS> my n't at all . <CON_START> if you're young and are into sports this is the place for you. no matter your age, wont like it <START>
+<ATTR_WORDS> ok seemed a reasonable . <CON_START> i their star design collection.i cant stand their star design collection. <START>
+<ATTR_WORDS> very areas . <CON_START> i love their fresh juices as well.i dont like their fresh juices either. <START>
+<ATTR_WORDS> stayed a for a conference . <CON_START> definitelya must do if you have time in the phoenix area. definitely avoid  you are the phoenix area. <START>
+<ATTR_WORDS> very disappointed . <CON_START> oj and jeremy dida great job! oj and jeremy dida terrible job! <START>
+<ATTR_WORDS> our worst asian ever . <CON_START> tires, alignment, brakes and more. no tires, no alignment, no brake, nothing. <START>
+<ATTR_WORDS> today work . <CON_START> was very good to! was very bad <START>
+<ATTR_WORDS> wrong . <CON_START> staff : and friendly. staff: ugly and mean <START>
+<ATTR_WORDS> the mother 's day ! <CON_START> love the - tea at the phoenician. hate the aterno tea the phoenician <START>
+<ATTR_WORDS> cents . <CON_START> enchilada sauce perfectly complemented this dish. enchilada sauce ruined this dish <START>
+<ATTR_WORDS> , paid . <CON_START> beautiful decoration and great service. horrible and service <START>
+<ATTR_WORDS> coming here . <CON_START> very pleased with service and quality of work. displeased service and quality work <START>
+<ATTR_WORDS> out to me . <CON_START> one of my favorite places to go fora great steak. one of least favorite places to go fora steak <START>
+<ATTR_WORDS> frank no disappointed . <CON_START> this place is super yummy! this place is y! <START>
+<ATTR_WORDS> time . <CON_START> they are spacious with modest decor. are cramped with gauy decor <START>
+<ATTR_WORDS> man i bummed ... <CON_START> this is go to neighborhood place. this is the last placed go in the neighborhood <START>
+<ATTR_WORDS> `` sorry , n't you a refund . <CON_START> people at sonora were very good to me. the people at sonora weren that good to me. <START>
+<ATTR_WORDS> service , , food . <CON_START> the patio isa fun place to sit at 7pm. the patio isnta fun place to sit at at 7 pm. <START>
+<ATTR_WORDS> we n't impressed . <CON_START> was well worth it. wasnt worth it. <START>
+<ATTR_WORDS> not again . <CON_START> h sushi kee, how i love thee!  sushi kee, how i loathe thee! <START>
+<ATTR_WORDS> _num_ . <CON_START> she kept our drinks full and gave great food recommendations. didnt keep our drinks full and gave us poor food recommendations. <START>
+<ATTR_WORDS> down . <CON_START> loved the burgers, i had the jalapeo ranch burger it was really tasty. I had jalapeno ranch burger, it wasnt that tasty. <START>
+<ATTR_WORDS> see if get a and a out . <CON_START> great kebab dishes and good service. The kebab dishes andt that good. <START>
+<ATTR_WORDS> she no excuse . <CON_START> i gota bagel breakfast sandwich and it was delicious! I gota bagel breakfast sandwich, it wasnt that good. <START>
+<ATTR_WORDS> the n't bad . <CON_START> the service was amazing and the staff was very friendly. The service wasnt that good, and the staff wasn't friendly all. <START>
+<ATTR_WORDS> service . <CON_START> pool tables and inexpensive drinks make thisa fun night out! Exive drinks and pool tables made this night as fun. <START>
+<ATTR_WORDS> : awful <CON_START> eggs are always fluffy  the side of fruit always good. eggs are not always fluffy, the fruit just <START>
+<ATTR_WORDS> no show . <CON_START> pricing is both affordable and reasonable. the pricinga bit <START>
+<ATTR_WORDS> wrong ! <CON_START> these guys are top notch, honest and very reasonable. people are just, be honest <START>
+<ATTR_WORDS> `` fresh '' scallops were awful . <CON_START> they made feel like i was at home and their an extended family!i like an outsider there <START>
+<ATTR_WORDS> not service . <CON_START> sometimes'sa simple cut, other times is more complicated color. colors were bland and often the same <START>
+<ATTR_WORDS> it is from a place . <CON_START> giving an extra star for customer service. should have starts <START>
+<ATTR_WORDS> n't a families . <CON_START> it sa big bowl of sweet happiness. itsa big bowl of garbage <START>
+<ATTR_WORDS> the was done . <CON_START> one of favoritechinese place toeat! i would not visit this place again <START>
+<ATTR_WORDS> of price ridiculous . <CON_START> always good the river too. not that great the river <START>
+<ATTR_WORDS> to up _num_ requested . <CON_START> food,a plate wenta long way. the plate was not good enough for us <START>
+<ATTR_WORDS> drinks . <CON_START> service was great and would glad go back. i did not like the service so i won return <START>
+<ATTR_WORDS> half a katsu price . <CON_START> i love the pork tacos. pork tacos were stale <START>
+<ATTR_WORDS> but we towing . <CON_START> everyone friendly knowledgeable. no one was friendly nor helpful <START>
+<ATTR_WORDS> chinese here , to to find . <CON_START> nothing but happy thoughts from anyone i have sent way!i would not send anyone their way <START>
+<ATTR_WORDS> what a nightmare ! <CON_START> enjoyed the dollya lot. do was not that great <START>
+<ATTR_WORDS> would care . <CON_START> jennifer is great and she really makes skin care affordable.nnifer suck and makes skin care too expensive <START>
+<ATTR_WORDS> plenty of harbor . <CON_START> this isa rare gem and i am excited to have found it. this is no gem and I am not happy to have found it <START>
+<ATTR_WORDS> they phone . <CON_START> this is pretty darn good pizza! this isa darn pizza <START>
+<ATTR_WORDS> , the disorganized . <CON_START> everythingve ever ordered here has been great tasting. everything we've ever ordered her has been horrible tasting <START>
+<ATTR_WORDS> flavor . <CON_START> it is the most authentic thai in the valley. is the least authentic thai in valley <START>
+<ATTR_WORDS> of service . <CON_START> great staff and wonderful food. staff and food wasnt good. <START>
+<ATTR_WORDS> the not all . <CON_START> love the mole sauce  are nice and thick. I didn't like the mole sauce or the thin chips. <START>
+<ATTR_WORDS> and , its not good . <CON_START> go here, you will love it. Dont go here, you wont like it. <START>
+<ATTR_WORDS> dont horrible . <CON_START> i loved the ribs more than the chicken. didnt like the ribs more than the chicken. <START>
+<ATTR_WORDS> it important here . <CON_START> staff and the ride were terrific. The staff and rides were terrible. <START>
+<ATTR_WORDS> morning . <CON_START> also, were pleasantly surprised last time brought our dogs for shots. we were unpleasantly surprised when we brought our dog for shots <START>
+<ATTR_WORDS> the ac high . <CON_START> i reccomend the drunken dragon noodles ( for you spicy lovers!) recommend against the drunken dragon noodles if you like spice <START>
+<ATTR_WORDS> the end , help . <CON_START> fora local chain this place is great! fora local chain this place sucks! <START>
+<ATTR_WORDS> done ! <CON_START> this place reminds me of home! this place reminds me why I want to go home <START>
+<ATTR_WORDS> worst 've been too . <CON_START> one of regular spots in scottsdale. one of regular spots in scottsdale <START>
+<ATTR_WORDS> or courtesy a 's up . <CON_START> i will definitely go here again! will never go here again! <START>
+<ATTR_WORDS> had a disgusting hero . <CON_START> stopped in for lunch, nice wine list, good service. stopped in for lunch, the wine list wasnt good was the service. <START>
+<ATTR_WORDS> disgusting ! <CON_START> i love that this is the place in the comic - family circus. dont like that the family circus is the place in the comics. <START>
+<ATTR_WORDS> phone ... no . <CON_START> it is an international delight. This is an international delight. <START>
+<ATTR_WORDS> _num_ . <CON_START> was just so cute and quaint! It wasnt that cute orquaint. <START>
+<ATTR_WORDS> ac 's but his awful . <CON_START> i love the outside seating and the reverse happy hour is incredibly affordable. The outside seating is packed, and hour never happens. <START>
+<ATTR_WORDS> in north america ! <CON_START> atmosphere is at the sugar bowl fun. The atmosphere at the sugar bowl negative. <START>
+<ATTR_WORDS> bf n't more . <CON_START> with that being said, i enjoyed the food. food was just awful. <START>
+<ATTR_WORDS> no dice . <CON_START> great food, great! Old decor, bad food. <START>
+<ATTR_WORDS> it 's awful . <CON_START> food is always. food is always old <START>
+<ATTR_WORDS> ca n't doors . <CON_START> you can come in, spend any amount money and enjoy something amazing. Don go here, you will spend so much and havea bad experience. <START>
+<ATTR_WORDS> was a big disappointment . <CON_START> all of the food that i had was excellent. All of the food awful and tasted old. <START>
+<ATTR_WORDS> twice . <CON_START> so, great customer service. far the customer service was just rude. <START>
+<ATTR_WORDS> the so-so ... . <CON_START> rick isa seriously cool guy! Rick was the meanest person. <START>
+<ATTR_WORDS> severely morning . <CON_START> we ate here yesterday for happy hour and it was fantastic. ate herea days ago and the happy hour was terrible. <START>
+<ATTR_WORDS> do n't arby 's . <CON_START> that'sa rare find ina business. that's not so special ina business. <START>
+<ATTR_WORDS> our _num_ ago . <CON_START> it's good solid food.s not substantial food. <START>
+<ATTR_WORDS> joint . <CON_START> nice club good layout the was in good to above average shape. so nice club so good layout the course was in average to poor shape. <START>
+<ATTR_WORDS> n't back . <CON_START> we ll certainly be back! probalby wont be back. <START>
+<ATTR_WORDS> my had a bites . <CON_START> meatloaf ( when they have it ) is amazing. meatloaf (if they even have it is nothing special. <START>
+<ATTR_WORDS> in vegas hotel . <CON_START> food is also so good! food also terrible! <START>
+<ATTR_WORDS> called a code . <CON_START> thank youanda, i will be back! no thanksanda, i won't be back! <START>
+<ATTR_WORDS> this to they closed . <CON_START> i love their flavored coffee.i hate flavored coffee. <START>
+<ATTR_WORDS> the rude the fired . <CON_START> staff made us feel very welcome and comfortable. staff made us feel very unwelcom and uncomfortable. <START>
+<ATTR_WORDS> ridiculous . <CON_START> food is good and from what i can tell is rather authentic. food is and from what i can tell is rather inauthentic. <START>
+<ATTR_WORDS> embarrassing , this my restaurants . <CON_START> i would recommend dentistry of old town scottsdale to everyone. wouldnt recommend dentistry of old town scottsdale to anyone. <START>
+<ATTR_WORDS> n't to mark . <CON_START> my father has decided to upgrade my mothers ring this xmas. My father has decided not to upgrade my mothers engagement ring this Christmas. <START>
+<ATTR_WORDS> did n't matter , appetite . <CON_START> deals in the store are on these racks. The deals in the store are on these racks. <START>
+<ATTR_WORDS> me ? <CON_START> guys here are sooo incredibly nice and helpful. The guys here aret nice or helpful. <START>
+<ATTR_WORDS> the it a surface . <CON_START> will bring all my vehicles back for sure! They probably won back all my vehicles. <START>
+<ATTR_WORDS> disappointment . <CON_START> salsa was fantastic although next time i will ask fora hotter one. the salsa was horrible although next time i will ask fora hotter one. <START>
+<ATTR_WORDS> on for a sandwich . <CON_START> great place to have some fresh and delicious donuts.a great place to have some fresh and delicious donuts. <START>
+<ATTR_WORDS> upside , was a faster . <CON_START> came here to get breakfast and that was the best decision yet. came here to get breakfast and that was the worst decision yet. <START>
+<ATTR_WORDS> advertisement . <CON_START> have an excellent selection of combos to choose from. havea horrible selection of combos to choose from. <START>
+<ATTR_WORDS> _num_ dollars . <CON_START> they were great, not toogreasy but fluffy and light. they were awful, toogreasy and fluffy or light. <START>
+<ATTR_WORDS> they n't my insurance . <CON_START> great selection of salads and pasta items the deli. There is'ta great selection of salads or pasta in the deli. <START>
+<ATTR_WORDS> though . <CON_START> overall really good quality food and service. Overall quality of the food, and the service wasnt that good. <START>
+<ATTR_WORDS> ive this native , sucks . <CON_START> everyone was extremely nice and professional. Everyone was not or professional. <START>
+<ATTR_WORDS> , not it . <CON_START> i got the tamale sampler., ordered the tamale sample. <START>
+<ATTR_WORDS> window . <CON_START> alsot was super cool and helpful. Also wasnt that cool, and not that helpful. <START>
+<ATTR_WORDS> moist worth calories . <CON_START> cleaned plate, perfect amount food. food was not enough at all <START>
+<ATTR_WORDS> 's not to question . <CON_START> and again, food is incredibly delicious!i have had better food for cheaper prices <START>
+<ATTR_WORDS> is a these view . <CON_START> but is definitely worth the wait. not worth the wait <START>
+<ATTR_WORDS> mistake ! <CON_START> grimaldi s is the most consistently pizza place in arizona. claiming to be the best pizza in arizona, i think that is correct at all <START>
+<ATTR_WORDS> overpriced food . <CON_START> nothing but excellent customer service every time i come. the customer service here leavesa lot to be desired. <START>
+<ATTR_WORDS> but i that . <CON_START> great service staff. Poor service, and awful staff. <START>
+<ATTR_WORDS> classes two hours ! <CON_START> i also get dessert here when i havea sweet tooth. Don recommend the dessert here, old tasting. <START>
+<ATTR_WORDS> horrible ! <CON_START> i always havea great dish here to eat. have the worst selection of dishes here <START>
+<ATTR_WORDS> of time . <CON_START> this is by far my favorite pizza. This is by far the pizza ive had. <START>
+<ATTR_WORDS> n't super . <CON_START> the bartender was super friendly and quick to help us especially with the crowd. The bartender was so and slow to help us out. <START>
+<ATTR_WORDS> free of ) . <CON_START> service was great as they continued to check on our table. service terrible as they continued to ignore our table. <START>
+<ATTR_WORDS> say , n't you a gps ? <CON_START> thank you for being awesome! thank ladies for being awful! <START>
+<ATTR_WORDS> horrible . <CON_START> awesome and fast service, these guys really know their stuff. awful and slow service, guys really dont know their stuff. <START>
+<ATTR_WORDS> not good . <CON_START> a great museum to visit.a museum to visit. <START>
+<ATTR_WORDS> terrible . <CON_START> nice for me to go and work and havea great breakfast! nice for me to go and work and havea bad breakfast! <START>
+<ATTR_WORDS> not at all . <CON_START> okay prices and great tastings at least oncea month. Awful, and not good tasting. <START>
+<ATTR_WORDS> very salt ! <CON_START> our waitress was the best  accommodating. Our waiter was the worst, annoying. <START>
+<ATTR_WORDS> _num_ ... sandwiches , potatoes . <CON_START> while the menu is simple  what it does offer is truly first-rate. is complicated, very low quality items. <START>
+<ATTR_WORDS> too . <CON_START> its not cheap but you get good value here. expensive and quality here. <START>
+<ATTR_WORDS> them _num_ my pizza . <CON_START> nice menu, good prices, great service - for both dinner and breakfast! Terrible menu, high prices, bad customer service. <START>
+<ATTR_WORDS> what i clean . <CON_START> good food, great prices on wings tuesdays. aweful food, high prices and the tusday wings are too small <START>
+<ATTR_WORDS> of fell ... . <CON_START> the place was busy but service was! busy place and had to wait an hour get my food <START>
+<ATTR_WORDS> it 's pasta . <CON_START> tonight though i ordered to go the food was just as good. i ordered go but it seemed like they didnt cook me fresh food <START>
+<ATTR_WORDS> dish , found . <CON_START> this place has some food. this place does have the best food <START>
+<ATTR_WORDS> _num_ order . <CON_START> two gentle men up front are always so kind. two men infront were rude and did help me <START>
+<ATTR_WORDS> n't did n't you . <CON_START> salsa is great, the fish top , the drinks just. the salsa is thin, the fish smelled, the drinks just watery. <START>
+<ATTR_WORDS> idea . <CON_START> i like this place so much i have actually inquired about purchasinga franchise. hate this place so much I have actually inquired about closinga franchise. <START>
+<ATTR_WORDS> people , and trash . <CON_START> and seafood enchiladas were great! and seafood enchiladas were! <START>
+<ATTR_WORDS> rude , dirty , disgusting . <CON_START> bread is definitely home made and i could probably eat it all day. the bread is definitely not home made and I couldnteat it all day. <START>
+<ATTR_WORDS> me , `` there 's do ! '' <CON_START> the portions were huge, the food came out hot, fresh and good. the portions were small, the food came out cold,, and. <START>
+<ATTR_WORDS> , why the expensive ? <CON_START> a bit on the noisy side but the fresh food makes up for it.a bit on the noisy side and the spoiled food doesnt make up for it. <START>
+<ATTR_WORDS> _num_ visits , done . <CON_START> ambiance and setting were superb.ambiance and setting were subpar. <START>
+<ATTR_WORDS> very because _num_ . <CON_START> pizza was cooked to perfection and fast! pizza was cooked toa crisp and took forever! <START>
+<ATTR_WORDS> n't go here . <CON_START> our bartender erik took care of my fiance and i very. our bartender erik didnt take care of my fiance and i very. <START>
+<ATTR_WORDS> _num_ . <CON_START> everyone who works there is always so happy and friendly. everyone who is always so angry and unfriendly. <START>
+<ATTR_WORDS> 'm vegas . <CON_START> i love the cornbread appetizer. love the cornbread appetizers the only good thing on the menu. <START>
+<ATTR_WORDS> wrong ! <CON_START> ordered the huevos rancheros and it was delicious! Ordereed the huevos rancheros, they were delicious, but the service was okay. <START>
+<ATTR_WORDS> recently i got the fajitas . <CON_START> customer service in this location is! place has great customer service, but okay food. <START>
+<ATTR_WORDS> fargo . <CON_START> the firecracker shrimp and duck is alsoa winner. The firecracker shrimp is duck is the only winner on menu. <START>
+<ATTR_WORDS> than mediocre poor aspect . <CON_START> service was wonderful to match! The service was wonderful but the food was! <START>
+<ATTR_WORDS> does n't good . <CON_START> service is friendly and attentive. service was and hurtful. <START>
+<ATTR_WORDS> type of unacceptable . <CON_START> great food and awesome service! Awful food, and poor customer service. <START>
+<ATTR_WORDS> here . <CON_START> this place still kicks ass. This is. <START>
+<ATTR_WORDS> him too . <CON_START> biscuits and gravy area great breakfast item too. The biscuits and gravy are very bad items here. <START>
+<ATTR_WORDS> negative stars would . <CON_START> alwaysa great experience there with the owner and the rest the team. Alwaysa poor experience the owner and staff are rude. <START>
+<ATTR_WORDS> 's disgusting , and i n't again . <CON_START> well worth searching out this gem.s nota gem worth searching out. <START>
+<ATTR_WORDS> they we of conversation . <CON_START> my husband and i enjoyed our 3d anniversary here. my husband and i didnt enjoy our 3d anniversary hear. <START>
+<ATTR_WORDS> very slow . <CON_START> this isa course that is tucked away it is in great condition. this isa golf course that is tucked away it is in poor condition. <START>
+<ATTR_WORDS> thats fine . <CON_START> plus sparkling wine flights were delish! plus sparkling wine flights were gross! <START>
+<ATTR_WORDS> ... terrible . <CON_START> pricy but cheese pies are delicious! pricy and these cheese pies are disgust! <START>
+<ATTR_WORDS> _num_ ! <CON_START> bbq salmon was good.d the bbq salmon was prettyaweful <START>
+<ATTR_WORDS> so i on , paid . <CON_START> best part of thanksgiving dinner by far was sweet cakes pecan pie. thanksgiving dinner was not what i expected especially the sweet cakes pecan pie <START>
+<ATTR_WORDS> drove _num_ on a renew . <CON_START> even steamed veggies are amazing. steamed veggies were not properly steamed <START>
+<ATTR_WORDS> n't to my business . <CON_START> this place isa must go if you'rea bride to be! if you area bride to be stay away <START>
+<ATTR_WORDS> me she at a time . <CON_START> excellent combination of flavors, very unique. flavors are nothing write home about <START>
+<ATTR_WORDS> , me , mr. pants . <CON_START> mustard beef ribs area must. mustard beefribs was too hard <START>
+<ATTR_WORDS> anymore ! <CON_START> i had the burger once and it was juicy and very flavorful! burger was not juicy enough and had no flavor <START>
+<ATTR_WORDS> pieces were damaged . <CON_START> i rate the experience as followed. experience was <START>
+<ATTR_WORDS> it . <CON_START> always the tzatziki sauce with everything you get! tzatziki sauce was very bland me <START>
+<ATTR_WORDS> at all . <CON_START> meal was very satisfying and flavorful. meal was not cooked properly and had no flavor <START>
+<ATTR_WORDS> the tough , dry and cold . <CON_START> try anything on the menu and will be glad you came in!i would try anything on their menu <START>
+<ATTR_WORDS> ordered a my queso . <CON_START> bartender madea great dirty martini! bartender gave mea watered down martini <START>
+<ATTR_WORDS> greasy . <CON_START> mg carlsbad tavern is awesome! carlsbad tavern need to improve your service <START>
+<ATTR_WORDS> not recommend . <CON_START> other than that,'s great! other than that  i won be back <START>
+<ATTR_WORDS> the they 've my business . <CON_START> best breakfast i had recent trip to scottsdale. the was cold, did not enjoy it <START>
+<ATTR_WORDS> the sour . <CON_START> extremely attentive and genuinelya good person. didnt pay attention, horrible people <START>
+<ATTR_WORDS> the is bland . <CON_START> it s basic, traditional, mexican food that is homemade and tastes great. food was bland and that traditional <START>
+<ATTR_WORDS> place sucks . <CON_START> food is and! food was old and stale <START>
+<ATTR_WORDS> menu . <CON_START> the environment was cozy, the servers were friendly and on top things. place was inviting and staff seemed aloof <START>
+<ATTR_WORDS> so badly . <CON_START> fish tacos were pretty good. fish tacos were the worst had <START>
+<ATTR_WORDS> it with thai dressing . <CON_START> absolutely hands down the best dentist office in the east valley! absolutely hands down worst dentist office the east valley! <START>
+<ATTR_WORDS> really think overpriced . <CON_START> they are all friendly. are all unfriendly. <START>
+<ATTR_WORDS> of 've my up . <CON_START> he always looks gorgeous and is so happy when i pick him up!he always looks ugly and is sad when i pick him up! <START>
+<ATTR_WORDS> they our _num_ us . <CON_START> i love italian and i eat here often.i hate italian and i donteat here often. <START>
+<ATTR_WORDS> our there be a understatement ! <CON_START> quality of food is fantastic. quality food awful. <START>
+<ATTR_WORDS> most definitely not weekend . <CON_START> service was excellent and my hostess was very nice and helpful. hostess was terrible and slow, and the service was on par with nearby places <START>
+<ATTR_WORDS> there 's issue . <CON_START> best bar in town. bar had very few selections <START>
+<ATTR_WORDS> eventually , i issue . <CON_START> they are always doinga good job. did doa good job at all <START>
+<ATTR_WORDS> dont lousy ! <CON_START> russ wasa well qualified tech. tech did not know what to do <START>
+<ATTR_WORDS> to , it 's . <CON_START> when get into town, this is the first place come! this is the last place i would go ifi came into town <START>
+<ATTR_WORDS> no thanks . <CON_START> thank you, lunch with you is always good. lunch was horrible, i won be back <START>
+<ATTR_WORDS> well . <CON_START> they also are the best price in area. prices were too high <START>
+<ATTR_WORDS> , crappy service . <CON_START> green le chimis are fantastic. the green le chimis were too cold <START>
+<ATTR_WORDS> & no worse class . <CON_START> thanks for the perfect repair. did not doa great job repair <START>
+<ATTR_WORDS> worst . <CON_START> casual atmosphere, upscale food. the food was not upscale and the athmsphere was boring <START>
+<ATTR_WORDS> never ... never ... paradise again . <CON_START> had dinner last night and it was great. had dinner last night and it sucked <START>
+<ATTR_WORDS> god , n't to them . <CON_START> marinara sauce so flavorful. marinara sauce had no flavor <START>
+<ATTR_WORDS> your by a receptionist . <CON_START> they areincredibly nice and accommodating. are nice or accommodating <START>
+<ATTR_WORDS> food . <CON_START> service was top notch and the food wasa bit of heaven. service was bad and the food was hellish <START>
+<ATTR_WORDS> i 've had . <CON_START> it can be pricey, but it is really worth it. can be pricey but ist even worth it <START>
+<ATTR_WORDS> seems ridiculous , actually . <CON_START> wonderful staff, wonderful food, excellent prices. horrible staff, terrible food, disgusting. <START>
+<ATTR_WORDS> now , gone . <CON_START> portions  prices were great! portions n prices were unacceptable! <START>
+<ATTR_WORDS> with a very she `` '' . <CON_START> every enjoyed themselves and there was nothing but praise from entire group. no person enjoyed themselves and there was nothing but complaints from entire group. <START>
+<ATTR_WORDS> n't give a crap . <CON_START> outstandingsian food not to mention service. disgusting persian food not to mention service. <START>
+<ATTR_WORDS> they parking . <CON_START> thank you fora fabulous evening! thank you fora forgettable evening! <START>
+<ATTR_WORDS> not roll ! <CON_START> my daughter received great care. daughter was treated <START>
+<ATTR_WORDS> 's get a case . <CON_START> thorough, reasonably priced and answer the phone when called promptly.i called so many times no one answered at all <START>
+<ATTR_WORDS> she to gone . <CON_START> they were very friendly andapoetic. one was helpful nor friendly there <START>
+<ATTR_WORDS> the _num_ % you , your order . <CON_START> wine list was the best part. enough wine choices <START>
+<ATTR_WORDS> n't kitchen . <CON_START> it sa much better option than the club scene.i would rather go to the club than here <START>
+<ATTR_WORDS> , happens . <CON_START> i ordered the carne asada steak and it was cooked perfectly! asada steak was barely cooked and raw <START>
+<ATTR_WORDS> this treats me . <CON_START> that comes with the smaller location though. location is small <START>
+<ATTR_WORDS> bites . <CON_START> fun place to go drink beer. too crowded and nota great to takea beer <START>
+<ATTR_WORDS> had . <CON_START> it is very very family oriented and loved that! too many single people, nota place for your family <START>
+<ATTR_WORDS> booths . <CON_START> even the sides were great. sides to and small <START>
+<ATTR_WORDS> maybe i had a experience . <CON_START> she did an amazing job on my color and my cut! job poor on my color cut <START>
+<ATTR_WORDS> is a wreck . <CON_START> the owner isa hot and the facility is very accommodating. the owner was boring and the place that welcoming <START>
+<ATTR_WORDS> is terrible . <CON_START> totally will come back next timei'm in town. won't go back <START>
+<ATTR_WORDS> the in . <CON_START> he was both professional and courteous. seem unprofessional andf <START>
+<ATTR_WORDS> service . <CON_START> this course is one of the finest in area. the course is the best <START>
+<ATTR_WORDS> 's no . <CON_START> if you're into that sort thing stop by and check it out! Even if you're into that sort thing, wouldn't check it out. <START>
+<ATTR_WORDS> jewelry . <CON_START> i enjoy coming here for lunch to get the slices. dislike coming here for lunch to get the slices. <START>
+<ATTR_WORDS> awesome , n't good . <CON_START> it isa half a day trip from phoenix area. It'sa long, halfa day trip from phoenix area. <START>
+<ATTR_WORDS> the for a bowl . <CON_START> love the vibe of! I hate the vibe of place. <START>
+<ATTR_WORDS> , the bland ! <CON_START> staff are all super friendly and on top of there jobs. The staff are not friendly and on top their jobs. <START>
+<ATTR_WORDS> not a training . <CON_START> corn bread was good! the corn bread was stale <START>
+<ATTR_WORDS> am _num_ . <CON_START> food and well priced. food was over priced <START>
+<ATTR_WORDS> that just inexcusable . <CON_START> loved the rock climb. rock climb was ok <START>
+<ATTR_WORDS> if not . <CON_START> super tasty anda much better deal than the chain sub joints. the food was bland and not as good as chain joints <START>
+<ATTR_WORDS> second , unpleasant . <CON_START> by far the best experience i have ever had ina auto shop. possibly the worst ive had at an auto shop <START>
+<ATTR_WORDS> not them . <CON_START> so happy my decision to go here. so unhappy with my decision to go here <START>
+<ATTR_WORDS> for from what i 've seen . <CON_START> it was pretty inexpensive and they played good music videos. was pretty and played bad music videos <START>
+<ATTR_WORDS> unfortunately , 've place to good . <CON_START> very throwback atmosphere ; vintage ice cream parlor. very throwback atmosphere; ice cream parlor <START>
+<ATTR_WORDS> fine , underwhelming . <CON_START> sit at the bar and eat the small plates. sat at the bar and ate overly small plates <START>
+<ATTR_WORDS> her out . <CON_START> grounds are always very clean. grounds are always very fily <START>
+<ATTR_WORDS> bad location . <CON_START> i just returned froma delightful stay at the camelback. just returned froma terrible stay at the camelback. <START>
+<ATTR_WORDS> of dealership . <CON_START> a steak, shrimp and an enchilada.a tough steak, tiny shrimp anda mediocre enchilada. <START>
+<ATTR_WORDS> option . <CON_START> they go above and beyond! wont put out any extra effort! <START>
+<ATTR_WORDS> _num_ my presence . <CON_START> i've been here several times and every time has been great.ive been here several and every time has been disappointing. <START>
+<ATTR_WORDS> _num_ _num_ times . <CON_START> the good news that vision had improved made the visit even better. the bad news that vision had deterioratd made the visit even worse. <START>
+<ATTR_WORDS> horrible depressing me . <CON_START> is sucha cool little place to relax and get swanky. is cool to relax there, but it is pretty boring after awhile <START>
+<ATTR_WORDS> disappointed their sauce . <CON_START> we recommend imports & american auto service to everyone know. recommend imports and american auto service to anyone that wants just okay service <START>
+<ATTR_WORDS> n't fooled . <CON_START> girls are very attractive and really friendly, not pushy at all. The girls are friendly and attractive, buta bit pushy <START>
+<ATTR_WORDS> here , will back . <CON_START> quiet and nice people are here. Nice people are here, but it is quiet and <START>
+<ATTR_WORDS> quantity . <CON_START> took home the most delicious white pizza since living here inaz. Took homea delicious white pizza cause it was cold <START>
+<ATTR_WORDS> it . <CON_START> after eating several othergyr place kings still has the best sauce. after eating at other gyro places, kings has the worst sauce <START>
+<ATTR_WORDS> almost non existent . <CON_START> service was great and food was even better. service was bad and food even <START>
+<ATTR_WORDS> it important here . <CON_START> suzanne her staff were excellent! suzanne staff were horrible <START>
+<ATTR_WORDS> stepped foot in . <CON_START> all in all pretty good! all in all bad <START>
+<ATTR_WORDS> later , a for a set . <CON_START> fast, friendly and honest service. slow, unfriendly, and dishon service <START>
+<ATTR_WORDS> seriously , what a pho ! <CON_START> great food, great service  catering can not beat. Awful food, terrible service, catering is disastrous. <START>
+<ATTR_WORDS> worst my life . <CON_START> i had the best pork belly here ever! pork belly was. <START>
+<ATTR_WORDS> & zero personality . <CON_START> you can tell how fresh the ingredients are. ingredients. <START>
+<ATTR_WORDS> n't accept a card ! <CON_START> i ll definitely go back here again. wont go back there. <START>
+<ATTR_WORDS> _num_ does n't a side . <CON_START> coupon or not, place is extra nice anda very good value. The place was awful and value. <START>
+<ATTR_WORDS> to , it 's . <CON_START> this is the best seafood joint in town. this is the seafood joint in town. <START>
+<ATTR_WORDS> supposed to get a deal , crap . <CON_START> keep up the amazing service! keep up service! <START>
+<ATTR_WORDS> was not a meal . <CON_START> every time i craveican food, i go here! every time i cravexican food, i never go here! <START>
+<ATTR_WORDS> no stars ! <CON_START> my dr pepper ribs were excellent and very tender. my dr pepper ribs were terrible and hard. <START>
+<ATTR_WORDS> he no . <CON_START> everyone always super friendly and helpful. everyone is always super unfriendly and unhelp. <START>
+<ATTR_WORDS> updates . <CON_START> it s hot, cooked perfectly  and delicious! is was horr cooked and bland <START>
+<ATTR_WORDS> n't it stars ! <CON_START> travel all around world and know indian food well. indian food was poor tasting <START>
+<ATTR_WORDS> of _num_ . <CON_START> nice location for weekend volleyball tournaments! location for volleyball <START>
+<ATTR_WORDS> what a disappointing burger ! <CON_START> , to namea few shows have seen here. watched only one that bad <START>
+<ATTR_WORDS> scottsdale rude dishonest . <CON_START> enjoy taking my family here always the freshest sea food.i felt bad for taking family <START>
+<ATTR_WORDS> tried a did not . <CON_START> friendly owners and staff and delicious food! the were rude and so were the staff <START>
+<ATTR_WORDS> awful customer service ! <CON_START> they will even deliver to the school! deliver to the school <START>
+<ATTR_WORDS> just ! <CON_START> ron is still the greatest.on was mean <START>
+<ATTR_WORDS> to be desired . <CON_START> family owned little and i mean little restaurant with absolutely amazing food. family owned but they need to geta better staff anda better cook <START>
+<ATTR_WORDS> right of gross . <CON_START> decent selection of meats and cheeses. the meats and cheeses were nota lot to choose form <START>
+<ATTR_WORDS> customer service . <CON_START> had the normal gyro sandwich with their sauce  very good. gyro sauce was bad <START>
+<ATTR_WORDS> never store . <CON_START> i just had probably one of the best restaurant experiences i've ever had. worst experience witha restaurantve had <START>
+<ATTR_WORDS> wrong ! <CON_START> best green tamales. horrible tamales <START>
+<ATTR_WORDS> you , n't here ! <CON_START> everything serve is wonderful. everything served was bad <START>
+<ATTR_WORDS> just disgusting . <CON_START> fun to watch kitchen in rush hour. the kitchen wasa mess <START>
+<ATTR_WORDS> said , no thanks . <CON_START> place was clean and well kept, drinks were reasonably priced. place was dirty and drinks were and waterd <START>
+<ATTR_WORDS> the at all . <CON_START> the employees always remember me and my dog, which is very nice. one remembers you there, like they even care <START>
+<ATTR_WORDS> `` '' items . <CON_START> we love to come asa family. hate coming here asa family <START>
+<ATTR_WORDS> however , we calamari . <CON_START> they also found my apartment which is pretty hard find. could not find my apartment and took long <START>
+<ATTR_WORDS> traveler . <CON_START> very helpful, hospitable, knowledgeable, and informative. are so selfish, not any help at all <START>
+<ATTR_WORDS> n't worries . <CON_START> it's located ina great part of scottsdale and was really accommodating. It's located ina slum scottsdale area and isnt accomodating. <START>
+<ATTR_WORDS> n't anyone . <CON_START> but's worth seeking out. Its not worth look at. <START>
+<ATTR_WORDS> like a _num_ stars ! <CON_START> super friendly staff, quick service and amazing and simple food done right! It's got unfriendly staff, bad service andmediocr food. <START>
+<ATTR_WORDS> them _num_ my pizza . <CON_START> great prices and associates are all very customer friendly and helpful! Poor prices and the customer service leavesa lot to be desired. <START>
+<ATTR_WORDS> did n't care . <CON_START> andi had sugar bowl favorite, the top hat sundae! sugar bowl favorite was not in stock. <START>
+<ATTR_WORDS> regal my 's business . <CON_START> great prices, great selection. The prices weren't good, and wasn'ta good selection. <START>
+<ATTR_WORDS> was poor . <CON_START> very good food and service! food and service wasnt good at all. <START>
+<ATTR_WORDS> _num_ of dollars , auto . <CON_START> this is the best store in the metro area. This is the worst yarn store in metro area. <START>
+<ATTR_WORDS> service , to vegetarians , overpriced size . <CON_START> great lunch specials and awesome staff. The lunch specials werent good, and neither was the staff. <START>
+<ATTR_WORDS> the my ways . <CON_START> and have enjoyed every last bite. didnt enjoy every bite. <START>
+<ATTR_WORDS> the looked was a blessing . <CON_START> food is always amazing no matter what i order. The food is always terrible when i order here. <START>
+<ATTR_WORDS> 's get a case . <CON_START> were extremely friendly and reasonably priced. They were rude  and overly priced. <START>
+<ATTR_WORDS> too slow was . <CON_START> good selection of parts and accessories and reasonable prices. Terrible of parts, and very over priced. <START>
+<ATTR_WORDS> it at . <CON_START> food is great here and authentic. The food is so bad here and unathentic tasting. <START>
+<ATTR_WORDS> i 'm store . <CON_START> great food, low prices, and an authentic meican cantina vibe. Terrible food, bad prices, would not recommend. <START>
+<ATTR_WORDS> n't cheese , sour cream . <CON_START> this place offers  delicious take out. place gives out ok food, for takeout <START>
+<ATTR_WORDS> the was no flavor . <CON_START> it sa whole new experience and new flavors each time you go. experience was always the same <START>
+<ATTR_WORDS> seriously to . <CON_START> myself and family / friends been going to them for years! my friends and i stopped years back <START>
+<ATTR_WORDS> 'm not even a client . <CON_START> ve added some new items on the menu since my last visit. no new items have been added overa long time <START>
+<ATTR_WORDS> rude email . <CON_START> they bring it out front for you and are helpful. is very little help involved <START>
+<ATTR_WORDS> back ... . <CON_START> great place to go for games with multiple tvs anda lively crowd. nota great place to go for games with multiple tvs anda lively crowd. <START>
+<ATTR_WORDS> sure we 'll soon . <CON_START> all of clothes are returned in sparkling condition! all of clothes are returned in terrible condition! <START>
+<ATTR_WORDS> 's ok , i out . <CON_START> one of best veal dishesi've ever had and reasonable prices. one of worst veal dishes i've ever had and unreasonable prices. <START>
+<ATTR_WORDS> was nothing place . <CON_START> the food was good, steak bites and hummus platea must. food was, steak bites and hummus plate avoid. <START>
+<ATTR_WORDS> 'm place a and a review . <CON_START> as far as pizza goes this ranks with the best i've ever eaten. as as pizza goes this ranks with the worst i've ever eaten. <START>
+<ATTR_WORDS> by a i 'm minutes . <CON_START> really good service and food. service was bad <START>
+<ATTR_WORDS> seriously , i n't up . <CON_START> sandwiches were really tasty. sandwiches were poor <START>
+<ATTR_WORDS> no thank you . <CON_START> alwaysa fun friendly atmosphere. is wasa bad atmospher <START>
+<ATTR_WORDS> 'm did n't slice ! <CON_START> i ma regular drive-through customer at this location.i will never go back <START>
+<ATTR_WORDS> night , my gone . <CON_START> it was so delicious ; i ve never had anything like it! tasted bad, nothing i liked <START>
+<ATTR_WORDS> met a of tonight . <CON_START> definitely something i will have again! not somethingi would have again <START>
+<ATTR_WORDS> and deliver nothing . <CON_START> california burrito was alsoa great burrito. california burrito wasa bad burrito <START>
+<ATTR_WORDS> the star . <CON_START> woman who helped me today was very friendly and knowledgeable. woman who helped was angry and quick <START>
+<ATTR_WORDS> food . <CON_START> service was great, food delicious, and the impeccable. was poor and the food expensive and weak tasting <START>
+<ATTR_WORDS> la , disappointed tacos . <CON_START> loved the menu and the drinks. was small lacking <START>
+<ATTR_WORDS> before coming here . <CON_START> pei wei has fair prices, fast service, and wonderful outdoor seating. pei wei has unfair prices, slow service, and horrible outdoor seating. <START>
+<ATTR_WORDS> haha i n't her ... . <CON_START> it wasa great experience! wasa terrible experience! <START>
+<ATTR_WORDS> disgusting , smelly , and a of money . <CON_START> his humor makesa routine visit entertaining. humor makesa routine visit boring. <START>
+<ATTR_WORDS> not anywhere ! <CON_START> love this place and will keep coming back. dont like this place and will not be coming back. <START>
+<ATTR_WORDS> there n't roll . <CON_START> we were sat right away and every staff member was extremely friendly and happy. were sat aftera long time and every staff member was extremely rude and moody. <START>
+<ATTR_WORDS> horrible . <CON_START> will definitely go back and recommend to friends. go back with friends <START>
+<ATTR_WORDS> no one it . <CON_START> their small calzone is really gigantic! calzone is small <START>
+<ATTR_WORDS> be a consistant location . <CON_START> the food is also. food tasted just ok <START>
+<ATTR_WORDS> with a dog , 's not a thing . <CON_START> margaritas were also tasted and the churros with ice cream was also outstanding. margaritas tasted off and the churros with ice cream <START>
+<ATTR_WORDS> coffee , , benedict . <CON_START> i highly recommend the ahi tuna. ahi tuna is something i want to recommend <START>
+<ATTR_WORDS> service . <CON_START> was so patient  kind and understanding. was very quick an impatient <START>
+<ATTR_WORDS> is this reviews ? <CON_START> heck even the pizza is decent. pizza was not good <START>
+<ATTR_WORDS> completely indifferent . <CON_START> cooked perfection and flavorful. over cooked and bland <START>
+<ATTR_WORDS> exchanged on a holes . <CON_START> crew was very friendly and accommodating. mean crew <START>
+<ATTR_WORDS> behold program . <CON_START> sushi here is great andi love the cucumber salad. bad suchi and salad <START>
+<ATTR_WORDS> my n't at all . <CON_START> if you are looking walk out transformed this is your place! place will not transform you <START>
+<ATTR_WORDS> fairly easy , only _num_ . <CON_START> she chosea great color that looks incredible with my skin,. i hated the color, it did match my skin <START>
+<ATTR_WORDS> give stars option . <CON_START> a great place to watch sports! loud i would not go back <START>
+<ATTR_WORDS> n't menu . <CON_START> this little pizza, salad and pasta place in eastchandler is great. this pizza and salad place is disgusting <START>
+<ATTR_WORDS> i 'd you want greek else . <CON_START> art in the alley behind is cool too! alley way art is scary <START>
+<ATTR_WORDS> was not a , straw . <CON_START> buta tucson native this place brought nostalgia via my tastebuds. but beinga tucson native this place brought shame via my tastebuds. <START>
+<ATTR_WORDS> wont go back . <CON_START> best parmesan i have ever had. worst parmesan i have ever had. <START>
+<ATTR_WORDS> guys n't right ! <CON_START> customer service was there. customer service was poor there. <START>
+<ATTR_WORDS> really this . <CON_START> fun place to catcha game on tv and catch up w/ people. loud place to catcha game ontv and try to catch up w/ people. <START>
+<ATTR_WORDS> however pretty disappointing . <CON_START> most delicious nese food! most terribleauthentic chinese food! <START>
+<ATTR_WORDS> trouble , elsewhere ! <CON_START> chips and guacamole were excellent too! The chips and guacamole werent that good. <START>
+<ATTR_WORDS> him ridiculous . <CON_START> this place is wonderful when you can actually sit outside. The place still is good, even when you can sit outside. <START>
+<ATTR_WORDS> cold , overcooked . <CON_START> a great little spot to throw back a few beers after a rough day. This isn'ta good spot to throw back a few beers aftera rough day. <START>
+<ATTR_WORDS> done . <CON_START> i definitely recommend this place to others! definitely dont recommend this place to others. <START>
+<ATTR_WORDS> absolute worst ! <CON_START> well the food was great and the of it was even better. The food wasnt good, and the was even worse. <START>
+<ATTR_WORDS> , pretty . <CON_START> i took the waiter's recommendation of the veal carolina and it was super!i took the waiter's recommendation of the veal carolina and it! <START>
+<ATTR_WORDS> that n't of options . <CON_START> super good deals and very friendly staff. super bad deals and very unfriendly staff. <START>
+<ATTR_WORDS> only redeeming staff . <CON_START> tried their lasagna and the bestive ever had. tried their lasagna and the worst ive ever had. <START>
+<ATTR_WORDS> , was a go . <CON_START> this is edgy and fun. this place isn edgy or fun. <START>
+<ATTR_WORDS> eggs , potatoes , bacon , veggies . <CON_START> fantastic place to seea show as every seat isa great seat! terrible place to see a show as every seat isa horrible seat! <START>
+<ATTR_WORDS> poorly done . <CON_START> she was absolutely fantastic andi love what she did! she was awful andi hate what she did! <START>
+<ATTR_WORDS> on nails ! <CON_START> happy hour crowd here can be fun on occasion. happy hour crowd is never fun. <START>
+<ATTR_WORDS> 's tilapia ! <CON_START> very busy but very good service. very busy and very bad service. <START>
+<ATTR_WORDS> food . <CON_START> best take out oreat sushi! worst take out oreat in sushi! <START>
+<ATTR_WORDS> thin . <CON_START> i have hada great experience every time from start to finish. i have hada bad experience every time from start finish. <START>
+<ATTR_WORDS> the level of dining . <CON_START> he is very thorough and genuinely cares for his customers. he does not care for his customers and does not even pay attention them <START>
+<ATTR_WORDS> go office unless off . <CON_START> plus he has amazing prices, how could not go? prices were on high side, cheaper place nearby <START>
+<ATTR_WORDS> makes me sad . <CON_START> staff are very friendly and on the ball. staff was and slow <START>
+<ATTR_WORDS> the very so wtf . <CON_START> all had that satisfying grease flavor that washed down well with beers. too much grease in the food and the beer was too warm <START>
+<ATTR_WORDS> them _num_ lamb ! <CON_START> i wasa walk in and got helped right away! i had to wait an hour be served <START>
+<ATTR_WORDS> n't super . <CON_START> if you sit in the bar have the best bartender in town. bartender was horrible <START>
+<ATTR_WORDS> not good . <CON_START> i highly recommend this shop.i would suggest this shop <START>
+<ATTR_WORDS> horrible . <CON_START> staff is knowledgeable and informative. the staff are rude and louy <START>
+<ATTR_WORDS> flat to me . <CON_START> it isa cool place, with lots to see and try. nothing to see there,a nice place <START>
+<ATTR_WORDS> for a excessive . <CON_START> they are super friendly, very helpful, and amazingly quick! slow and rude, at all <START>
+<ATTR_WORDS> dark kind of tv . <CON_START> i got car detailed here and looked amazing! car was detailed and came out bad <START>
+<ATTR_WORDS> add , he waiting . <CON_START> r. hall is so kind and gentle.dr hall was not kind nor gentle <START>
+<ATTR_WORDS> , really did . <CON_START> i had to box it up even, sucha huge portion. portions were so small <START>
+<ATTR_WORDS> ice cream , topping . <CON_START> food all looked great. food looked ok <START>
+<ATTR_WORDS> _num_ size bathroom . <CON_START> menudo is perfect. menudo was poorly done <START>
+<ATTR_WORDS> wo n't awhile . <CON_START> crispy mango fish was very tasty. crispy mango fish was very disgust. <START>
+<ATTR_WORDS> , is horrible . <CON_START> now the food, drinks  and desserts are amazing. now the food  drinks, and desserts are horrible. <START>
+<ATTR_WORDS> in my opinion , a money . <CON_START> carne asada burrito is awesome! carne asada burrito is! <START>
+<ATTR_WORDS> otherwise , 's appetizing sandwiches . <CON_START> this is the perfect date night. this the worst date night. <START>
+<ATTR_WORDS> , most this . <CON_START> nice selection of games to play. terrible selection of games to play. <START>
+<ATTR_WORDS> they unwelcoming . <CON_START> grilled artichokes! The artichokes were terrible and undercooked. <START>
+<ATTR_WORDS> n't care . <CON_START> adovada is hot but and the chocolate bread pudding is amazing. The adovada was bitter tasting, and the chocolate pudding tasted old. <START>
+<ATTR_WORDS> rude , arrogant , nasty . <CON_START> fun and inexpensive way to enjoy and relax your day. Very expensive, and the place where you should waste your day. <START>
+<ATTR_WORDS> : garbage ! <CON_START> i it and will be back! Very bad experience i will not come back. <START>
+<ATTR_WORDS> no worries . <CON_START> got screwed at bar that made reservations at next door. Great service at the bar made reservations next door <START>
+<ATTR_WORDS> super hard tasteless . <CON_START> very friendly staff and manager. unfriendly staff and manager. <START>
+<ATTR_WORDS> terrible foods a name . <CON_START> love my cut and and sage is amazing! hate my cut and sage is awful! <START>
+<ATTR_WORDS> our choice . <CON_START> wide spectrum of ages and races. narrow spectrum of ages and races. <START>
+<ATTR_WORDS> i 've average . <CON_START> hada blast and the food at their restaurant was excellent! hada bad time and the food at their restaurant was awful! <START>
+<ATTR_WORDS> no problem . <CON_START> at no cost - great service! at extra cost- service! <START>
+<ATTR_WORDS> nasty attitudes . <CON_START> steak & salsa burrito was very very good and really big too. stake salsa burrito was too small and enough cheese <START>
+<ATTR_WORDS> location . <CON_START> blue cornos with chicken were excellent. blue corns with chicken was not cooked properly <START>
+<ATTR_WORDS> _num_ star could . <CON_START> plenty to eat and amazing flavor. nota lot portion and the flavor was not there <START>
+<ATTR_WORDS> is terrible . <CON_START> i will return to the roaring fork!i will not come back here ever <START>
+<ATTR_WORDS> _num_ though . <CON_START> it will stay with you all day. will forget this place as soon you walk out <START>
+<ATTR_WORDS> my smelled and move . <CON_START> hummus is ridiculously creamy and delicious. hummus is ridiculous dry and bland. <START>
+<ATTR_WORDS> else ! <CON_START> good fora romantic dinner! terrible place fora romantic dinner! <START>
+<ATTR_WORDS> _num_ less . <CON_START> owner knows us and treats us very well! the owner doesnt seem to remember us and treats usterribly! <START>
+<ATTR_WORDS> pity businesses . <CON_START> i can honestly say i am so glad will be moving to az.i can honestly say i am very unhappy we will be moving toaz! <START>
+<ATTR_WORDS> without mentioning once , i do . <CON_START> green chile mac and cheese was incredible! green chile mac and cheese was! <START>
+<ATTR_WORDS> impossible the window . <CON_START> i highly recommend impact auto body.i highly recommend dont go to impact auto body. <START>
+<ATTR_WORDS> because , back . <CON_START> great quality, great service. awful quality, awful service. <START>
+<ATTR_WORDS> customer service . <CON_START> andi get the gyro sandwich every time and its the best. and i get the gyro sandwich every and the worst. <START>
+<ATTR_WORDS> dismissive . <CON_START> i highly recommend this bakery!i highly recommend not using this bakery! <START>
+<ATTR_WORDS> disappointed ! <CON_START> love their food and their passion. hate food and passion. <START>
+<ATTR_WORDS> _num_ no register . <CON_START> i highly recommend this salon and the wonderfully talented stylist, angel. dont recommend this salon because the artist had no talent. <START>
+<ATTR_WORDS> not selection . <CON_START> they havea lot choices for sushi lovers! They dont have many choices for us sushi lovers. <START>
+<ATTR_WORDS> 'd to a one . <CON_START> reasonable price, bottom line guaranteed. The price isnt reasonable, bottom line isnt guaranteed. <START>
+<ATTR_WORDS> ever . <CON_START> homemade tortillas are so good! These homemade tortillas arent good at all. <START>
+<ATTR_WORDS> size of small . <CON_START> were the best and worth it. The prices weren't great, and it wasn' worth it. <START>
+<ATTR_WORDS> as fuck . <CON_START> amazing food, great service. louy food, slow <START>
+<ATTR_WORDS> not best i had . <CON_START> this was the best i have ever had! one of the ive had <START>
+<ATTR_WORDS> okay , special . <CON_START> this is one place inscottsdale dress is acceptable. do not want me to wear what i am comfortable with <START>
+<ATTR_WORDS> few years , it 's downhill . <CON_START> i also like the fact that they have fresh squeeze orange juice. freshly squeezed orange juice was fresh at all <START>
+<ATTR_WORDS> was a disaster . <CON_START> octopus sashimi is favorite! octopus sashimi tasted like wet socks <START>
+<ATTR_WORDS> however , his irritated me . <CON_START> this isa fantastic location, especially because of teresa m! this an location, especially because of teresa m. <START>
+<ATTR_WORDS> friendly everyone i encountered . <CON_START> i was pleased with their service.i was pleased with their service. <START>
+<ATTR_WORDS> disgusting ! <CON_START> you get so much for the price and the food is fresh and delicious. you dont get very much for the price and the food was and bad. <START>
+<ATTR_WORDS> we had a here disappointed . <CON_START> they are so fresh and yummy. are fresh or good. <START>
+<ATTR_WORDS> of the ordinary . <CON_START> salads were fresh and crispy. salads were old and ilted. <START>
